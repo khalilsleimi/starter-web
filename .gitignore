@@ -1,1 +1,3 @@
 .To_Be_Ignored
+*.log
+log/
