@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Khalil SLEIMI   khalil.sleimi@vneuron.com   @khalilsleimi
 
 # THANKS
 
