@@ -19,4 +19,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2021 Khalil SLEIMI
+2021 Copyright Khalil SLEIMI, All rights reserved
